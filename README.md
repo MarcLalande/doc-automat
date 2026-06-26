@@ -73,3 +73,5 @@ This repository intentionally excludes:
 - API keys
 - internal deployment details
 
+The original implementation is private because it was built for a company workflow and handles sensitive
+operational documents.
